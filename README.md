@@ -1,0 +1,3 @@
+go-fish-chart
+=============
+Two players each draw 7 cards. The human player starts by asking the computer player if it has cards of a certain rank (e.g. do you have any 5s?). If the computer has those cards, it automaticaly gives the cards to the player and the player goes again. If the computer doesn't have the cards, it tells the player to "Go fish." The player then draws a card from the deck. If the card is the rank that was asked for, the player goes again. If not, it then becomes the computer's turn. If at any time either player has 4 cards of the same rank (this is called a book), those cards are put off to the side. This goes back and forth until either player has no cards or the deck runs out of cards. Whoever has the most books wins the game.
